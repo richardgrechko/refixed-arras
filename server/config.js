@@ -6,7 +6,7 @@ module.exports = {
     host: "3.70.101.28:443",
 
     // Which port to run the web server on.
-    port: 26301,
+    port: 443,
 
     // How often to update the list of the entities that players can see.
     // Has effects of when entities are activated.
